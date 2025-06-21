@@ -133,7 +133,7 @@ Viral_Pneumonia       0.98      0.96      0.97       269
 - Sử dụng model MedCLIP-SAMv2 do HealthX-Lab nghiên cứu để phân đoạn ảnh x-ray
 - Link repository: https://github.com/HealthX-Lab/MedCLIP-SAMv2/tree/main
 
-### Framework
+### Pipeline
 ![framework](./segmentation/semantic_framework.png)
 
 ### Sample segmentation results
